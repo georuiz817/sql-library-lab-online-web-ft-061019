@@ -1,1 +1,1 @@
-CREATE TABLE series (title TEXT);
+CREATE TABLE series (title TEXT, autho_id INTEGER);
